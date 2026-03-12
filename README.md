@@ -75,7 +75,7 @@ If you find this work useful in your research, please consider citing our paper:
 ```
 @inproceedings{chhetri2026consistency,
   title={The Consistency Optimizer Family: Modulating Parameter Updates via Local Trajectory Alignment},
-  author={Chhetri, Rajeeb Thapa and Thapa, Saurab and Kumar, Avinash and Chen, Zhixiong},
+  author={Chhetri, Rajeeb Thapa and Thapa, Saurab and Chen, Zhixiong and Kumar, Avinash},
   booktitle={IEEE Conference (TBD)},
   year={2026},
   organization={Mercy University, School of Liberal Arts}
